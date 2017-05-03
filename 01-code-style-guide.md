@@ -6,7 +6,7 @@
 [SCSS vs LESS](http://ourjs.com/detail/52e096ce4534c0d806000003)。
 [Boostrap v4](https://github.com/twbs/bootstrap/tree/v4-dev/scss)源码使用scss书写
 
-# JAVSCRIPT
+# JavaScript
 
 使用[JavaScript Standard Style（代码规范）](https://github.com/feross/standard/blob/master/docs/README-zhcn.md)和
 [JSDoc（注释规范）](http://usejsdoc.org/about-getting-started.html)
