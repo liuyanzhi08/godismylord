@@ -54,7 +54,7 @@
    ```
    // get image url from then given string
    var reg = /<img\s*src=['"]([^<>'"]+)['"].*>/i;
-   var str = 'Happy because you <img src="/path/to/smile.jpg" alt="smile" />';
+   var str = 'Happy because of you <img src="/path/to/smile.jpg" alt="smile" />';
    var url = str.match(reg)[1];
    ```
 
