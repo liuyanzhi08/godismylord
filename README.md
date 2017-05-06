@@ -1,2 +1,2 @@
 # godismylord
-Take you to a beautiful storybrooke
+God takes me to a beautiful storybrooke

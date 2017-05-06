@@ -1,9 +1,13 @@
+# Overview
+
+一个好习惯可以让人受益一生，因此我们写下的每一行代码都应该遵守好习惯
+
 # HTML&CSS
 
 参考[Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)（[中文版本](http://www.runoob.com/w3cnote/htmlcssguide.html)）
 
 如果要选一种CSS预编译语言就选SCSS吧:
-[SCSS vs LESS](http://ourjs.com/detail/52e096ce4534c0d806000003)。
+[SCSS vs LESS](http://ourjs.com/detail/52e096ce4534c0d806000003)
 [Boostrap v4](https://github.com/twbs/bootstrap/tree/v4-dev/scss)源码使用scss书写
 
 # JavaScript
